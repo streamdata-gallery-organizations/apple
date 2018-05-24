@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/155-apple.
 x-kinRank: "10"
 x-alexaRank: "73"
 tags: Apple
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apple/master/_listings/apple/apis.md
 specificationVersion: "0.14"
 apis: []
